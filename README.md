@@ -9,7 +9,7 @@ Built using **Python, Pandas, Plotly, and Streamlit**, this dashboard offers dee
 
 > **Deploy it with:**
 >
-> * [ ] Streamlit Share or HuggingFace Spaces
+> * [ https://northwind-cleaning-dashboard-fpqvt2a4eyv4fj6kbvkwqs.streamlit.app/] Streamlit Share 
 > * [ ] Add Screenshot/GIF Preview Here
 
 ---
